@@ -1,0 +1,10 @@
+.app {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+
+    h1 {
+        color: #e81e1e;
+    }
+}
+
