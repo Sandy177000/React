@@ -1,3 +1,8 @@
+## REACT-LITE
+A lightweight React-like framework built from scratch in JavaScript. 
+This educational project implements core React concepts including virtual DOM, fiber reconciliation, functional components, and hooks (useState, useEffect). 
+
+-----
 The framework consists of three main parts:
 1. Virtual DOM Creation (element.js)
 2. Rendering and Reconciliation (renderer.js)
