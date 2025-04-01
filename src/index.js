@@ -3,8 +3,12 @@ import { createElement } from './core/element';
 import { render } from './core/renderer';
 import { useState, useEffect } from './core/hooks';
 
-// Create our Mini-React API
-const React = {
+window.createElement = createElement;
+window.render = render;
+window.useState = useState;
+window.useEffect = useEffect;
+
+const React = { 
   createElement,
   render,
   useState,
